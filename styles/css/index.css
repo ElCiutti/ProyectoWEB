@@ -1,0 +1,17 @@
+#container {
+    text-align: center;
+}
+
+.texto {
+    padding-top: 4rem;
+}
+
+.texto p {
+    font-size:large ;
+}
+
+.acceso {
+    display: flex;
+    text-align: center;
+    padding-top: 4rem;
+}
